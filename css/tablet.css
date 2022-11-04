@@ -1,0 +1,18 @@
+.lista--menu{
+    display: none;
+}
+
+.responsive-menu{
+    display: inline-block;
+}
+
+nav{
+    width: 95%;
+    justify-content: space-between;
+    transform: none;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
